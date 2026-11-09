@@ -59,7 +59,7 @@
         "wk:page":"Tell_Kazel"
     },
     "wof:country":"SY",
-    "wof:geomhash":"56b84a2504bde4db41171e1739c62b3b",
+    "wof:geomhash":"2d65a1d892423559488ca8b9078827ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     35.98909000000001,
     34.7142
 ],
-  "geometry": {"coordinates":[35.98909000000001,34.7142],"type":"Point"}
+  "geometry": {"coordinates":[35.98909,34.7142],"type":"Point"}
 }

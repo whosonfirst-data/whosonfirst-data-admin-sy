@@ -47,7 +47,7 @@
         "gn:id":11555288
     },
     "wof:country":"SY",
-    "wof:geomhash":"c9e518f8470af7208d734e42f0fe7b71",
+    "wof:geomhash":"f0aa912ba7124ae599f7f10c92a12c84",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     36.81927,
     35.01730999999999
 ],
-  "geometry": {"coordinates":[36.81927,35.01730999999999],"type":"Point"}
+  "geometry": {"coordinates":[36.81927,35.01731],"type":"Point"}
 }

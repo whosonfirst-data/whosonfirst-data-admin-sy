@@ -71,7 +71,7 @@
         "wk:page":"Khanasir"
     },
     "wof:country":"SY",
-    "wof:geomhash":"e14d4572812e658db198cb1b9721c267",
+    "wof:geomhash":"1c91fff3b482b60ed0b45c5b529eae0d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,5 +97,5 @@
     37.49919000000001,
     35.78159
 ],
-  "geometry": {"coordinates":[37.49919000000001,35.78159],"type":"Point"}
+  "geometry": {"coordinates":[37.49919,35.78159],"type":"Point"}
 }

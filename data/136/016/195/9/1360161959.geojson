@@ -57,7 +57,7 @@
         "wk:page":"Mardikh"
     },
     "wof:country":"SY",
-    "wof:geomhash":"780f87e60468984c83d43e86f74b218d",
+    "wof:geomhash":"c19476f8c5280ee94e6e8c0fec9b0ceb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     36.79093,
     35.81117000000001
 ],
-  "geometry": {"coordinates":[36.79093,35.81117000000001],"type":"Point"}
+  "geometry": {"coordinates":[36.79093,35.81117],"type":"Point"}
 }

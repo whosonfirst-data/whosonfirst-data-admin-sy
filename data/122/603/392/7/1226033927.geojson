@@ -64,7 +64,7 @@
         "wk:page":"Abu_Rubays"
     },
     "wof:country":"SY",
-    "wof:geomhash":"3cb203a83af330cb92338f5c6f1262d4",
+    "wof:geomhash":"0d6012e8e2878da362eb7ffaf8f517b8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,5 +90,5 @@
     36.51257,
     35.19540999999999
 ],
-  "geometry": {"coordinates":[36.51257,35.19540999999999],"type":"Point"}
+  "geometry": {"coordinates":[36.51257,35.19541],"type":"Point"}
 }

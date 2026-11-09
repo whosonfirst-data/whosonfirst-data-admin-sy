@@ -56,7 +56,7 @@
         "wk:page":"Halboun"
     },
     "wof:country":"SY",
-    "wof:geomhash":"928082dbd1b26aa5ab739acea735cf10",
+    "wof:geomhash":"29c6170f8239638adcce8e3776c8b0d3",
     "wof:hierarchy":[
         {
             "country_id":85632413,
@@ -79,5 +79,5 @@
     36.24769000000001,
     33.66401
 ],
-  "geometry": {"coordinates":[36.24769000000001,33.66401],"type":"Point"}
+  "geometry": {"coordinates":[36.24769,33.66401],"type":"Point"}
 }

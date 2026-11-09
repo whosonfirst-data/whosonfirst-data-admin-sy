@@ -62,7 +62,7 @@
         "wk:page":"Sayadi,_Idlib"
     },
     "wof:country":"SY",
-    "wof:geomhash":"f9baaaa0ca8188546abedbf7860bbc29",
+    "wof:geomhash":"b3ed29cdd0c02576cfc0e287edc8c458",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     36.89585,
     35.61324000000001
 ],
-  "geometry": {"coordinates":[36.89585,35.61324000000001],"type":"Point"}
+  "geometry": {"coordinates":[36.89585,35.61324],"type":"Point"}
 }

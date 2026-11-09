@@ -75,7 +75,7 @@
         "wk:page":"Marmarita"
     },
     "wof:country":"SY",
-    "wof:geomhash":"1a405fdda345456ff2c48f8dc32a3392",
+    "wof:geomhash":"9d3d5f43e11c9e7453f44408202e0ea8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,5 +101,5 @@
     36.26244000000001,
     34.78199
 ],
-  "geometry": {"coordinates":[36.26244000000001,34.78199],"type":"Point"}
+  "geometry": {"coordinates":[36.26244,34.78199],"type":"Point"}
 }

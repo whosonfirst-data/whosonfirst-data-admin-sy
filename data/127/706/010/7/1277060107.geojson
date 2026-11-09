@@ -96,7 +96,7 @@
         "wk:page":"Shaizar"
     },
     "wof:country":"SY",
-    "wof:geomhash":"a21eca9769c214442a1e95460d118f0b",
+    "wof:geomhash":"4f3f27e80f0a8aba0525564f035d6e06",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,5 +122,5 @@
     36.562,
     35.26300999999999
 ],
-  "geometry": {"coordinates":[36.562,35.26300999999999],"type":"Point"}
+  "geometry": {"coordinates":[36.562,35.26301],"type":"Point"}
 }

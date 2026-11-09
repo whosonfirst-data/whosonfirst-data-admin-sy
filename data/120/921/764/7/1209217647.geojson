@@ -94,7 +94,7 @@
         "wk:page":"Kessab"
     },
     "wof:country":"SY",
-    "wof:geomhash":"de618923a91b1e909685e78e5d20f6b5",
+    "wof:geomhash":"209a8d8f5941522407790d92c4c63e07",
     "wof:hierarchy":[
         {
             "country_id":85632413,
@@ -117,5 +117,5 @@
     35.9897,
     35.92639000000001
 ],
-  "geometry": {"coordinates":[35.9897,35.92639000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.9897,35.92639],"type":"Point"}
 }

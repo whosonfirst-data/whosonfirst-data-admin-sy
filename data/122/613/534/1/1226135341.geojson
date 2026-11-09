@@ -83,7 +83,7 @@
         "wk:page":"Burraq"
     },
     "wof:country":"SY",
-    "wof:geomhash":"0793f333f131147d19965ed241a94a26",
+    "wof:geomhash":"128880ae13f6181d6083cd26b81a6ce6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -109,5 +109,5 @@
     36.48092000000001,
     33.18434
 ],
-  "geometry": {"coordinates":[36.48092000000001,33.18434],"type":"Point"}
+  "geometry": {"coordinates":[36.48092,33.18434],"type":"Point"}
 }

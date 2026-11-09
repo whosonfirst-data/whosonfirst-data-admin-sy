@@ -60,7 +60,7 @@
         "wk:page":"Samiriyah"
     },
     "wof:country":"SY",
-    "wof:geomhash":"892b9d4d18c920d79ef8cea36ddffdc9",
+    "wof:geomhash":"886df417a39f9821d5aad10bcb69e680",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     37.1828,
     35.28807000000001
 ],
-  "geometry": {"coordinates":[37.1828,35.28807000000001],"type":"Point"}
+  "geometry": {"coordinates":[37.1828,35.28807],"type":"Point"}
 }

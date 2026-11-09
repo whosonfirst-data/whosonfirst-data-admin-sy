@@ -85,7 +85,7 @@
         "wk:page":"Imtan"
     },
     "wof:country":"SY",
-    "wof:geomhash":"e780007563849a7fe23e76ee961ffcc5",
+    "wof:geomhash":"ec9eca6ae36af950c6b36adcc1adea61",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -111,5 +111,5 @@
     36.81782000000001,
     32.41869000000001
 ],
-  "geometry": {"coordinates":[36.81782000000001,32.41869000000001],"type":"Point"}
+  "geometry": {"coordinates":[36.81782,32.41869],"type":"Point"}
 }

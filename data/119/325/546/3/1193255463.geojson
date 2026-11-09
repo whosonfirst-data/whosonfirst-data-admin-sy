@@ -64,7 +64,7 @@
         "wk:page":"Zarzur"
     },
     "wof:country":"SY",
-    "wof:geomhash":"48132f02707c16b99c76ec43ddc66b8b",
+    "wof:geomhash":"2f6f118058ebb2f0313f6fb01e7c0850",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,5 +90,5 @@
     36.34011,
     35.95480999999999
 ],
-  "geometry": {"coordinates":[36.34011,35.95480999999999],"type":"Point"}
+  "geometry": {"coordinates":[36.34011,35.95481],"type":"Point"}
 }

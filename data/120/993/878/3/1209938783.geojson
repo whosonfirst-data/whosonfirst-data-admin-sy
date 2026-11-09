@@ -57,7 +57,7 @@
         "wk:page":"Darbal"
     },
     "wof:country":"SY",
-    "wof:geomhash":"795025c96e2f1aac0a297d8b7b6fb387",
+    "wof:geomhash":"1e20bacea2f2a9e826ee5f40eb3c3508",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     35.91034000000001,
     33.35486
 ],
-  "geometry": {"coordinates":[35.91034000000001,33.35486],"type":"Point"}
+  "geometry": {"coordinates":[35.91034,33.35486],"type":"Point"}
 }

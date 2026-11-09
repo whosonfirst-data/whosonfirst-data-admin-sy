@@ -55,7 +55,7 @@
         "wk:page":"Abu_Tinah"
     },
     "wof:country":"SY",
-    "wof:geomhash":"411b75c6a5ef1a948dce17ec3476cf04",
+    "wof:geomhash":"7373bf4bc89e19b6f26d9c835206ac13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     40.46037000000001,
     36.61715
 ],
-  "geometry": {"coordinates":[40.46037000000001,36.61715],"type":"Point"}
+  "geometry": {"coordinates":[40.46037,36.61715],"type":"Point"}
 }

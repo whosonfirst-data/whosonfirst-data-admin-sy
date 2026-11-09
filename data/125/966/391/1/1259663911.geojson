@@ -58,7 +58,7 @@
         "wk:page":"Tell_Sultan"
     },
     "wof:country":"SY",
-    "wof:geomhash":"61553a7d3d7ee29c7f657d7b160100d1",
+    "wof:geomhash":"30f632d25391fe2726791e06b41510b3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     36.99137,
     35.79904000000001
 ],
-  "geometry": {"coordinates":[36.99137,35.79904000000001],"type":"Point"}
+  "geometry": {"coordinates":[36.99137,35.79904],"type":"Point"}
 }

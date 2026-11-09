@@ -70,7 +70,7 @@
         "wk:page":"Kafr_Hamrah"
     },
     "wof:country":"SY",
-    "wof:geomhash":"0c55c2dbb300edf2f465e08abe737773",
+    "wof:geomhash":"03ca3665018a83379291d9bf42dbcd5e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,5 +96,5 @@
     37.07918,
     36.25279000000001
 ],
-  "geometry": {"coordinates":[37.07918,36.25279000000001],"type":"Point"}
+  "geometry": {"coordinates":[37.07918,36.25279],"type":"Point"}
 }

@@ -70,7 +70,7 @@
         "wk:page":"Karnaz"
     },
     "wof:country":"SY",
-    "wof:geomhash":"12b6cc61949b0e655556eb443e549067",
+    "wof:geomhash":"a6f96255995f07c9cb25409d1a883394",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,5 +96,5 @@
     36.48773,
     35.38972000000001
 ],
-  "geometry": {"coordinates":[36.48773,35.38972000000001],"type":"Point"}
+  "geometry": {"coordinates":[36.48773,35.38972],"type":"Point"}
 }

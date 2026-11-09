@@ -58,7 +58,7 @@
         "wk:page":"Mazraat_Beit_Jinn"
     },
     "wof:country":"SY",
-    "wof:geomhash":"9566ed26b59a9c64581d31934e0bf12b",
+    "wof:geomhash":"278ec09f48963f8b56647a72ca208309",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     35.92144000000001,
     33.32836
 ],
-  "geometry": {"coordinates":[35.92144000000001,33.32836],"type":"Point"}
+  "geometry": {"coordinates":[35.92144,33.32836],"type":"Point"}
 }

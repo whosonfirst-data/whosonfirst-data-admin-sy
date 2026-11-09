@@ -57,7 +57,7 @@
         "wk:page":"Samrah"
     },
     "wof:country":"SY",
-    "wof:geomhash":"af794670e8a91d377da1d2358c03882b",
+    "wof:geomhash":"533f8b97cd268d993f28f65990e0f04c",
     "wof:hierarchy":[
         {
             "country_id":85632413,
@@ -80,5 +80,5 @@
     36.86989000000001,
     35.29020999999999
 ],
-  "geometry": {"coordinates":[36.86989000000001,35.29020999999999],"type":"Point"}
+  "geometry": {"coordinates":[36.86989,35.29021],"type":"Point"}
 }

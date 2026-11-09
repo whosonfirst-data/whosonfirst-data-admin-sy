@@ -68,7 +68,7 @@
         "wk:page":"Atme"
     },
     "wof:country":"SY",
-    "wof:geomhash":"8d6ba089395f673c931027402fab5fb7",
+    "wof:geomhash":"9be83179655841d41f16b726d6148e70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,5 +94,5 @@
     36.68839000000001,
     36.3095
 ],
-  "geometry": {"coordinates":[36.68839000000001,36.3095],"type":"Point"}
+  "geometry": {"coordinates":[36.68839,36.3095],"type":"Point"}
 }

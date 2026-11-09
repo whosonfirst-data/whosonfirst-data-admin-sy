@@ -75,7 +75,7 @@
         "wk:page":"Tremseh"
     },
     "wof:country":"SY",
-    "wof:geomhash":"57759078eb60a23d7680bf2d715b10a3",
+    "wof:geomhash":"ce28bb4b49aa399894926433e059de8f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,5 +103,5 @@
     36.50395,
     35.27180999999999
 ],
-  "geometry": {"coordinates":[36.50395,35.27180999999999],"type":"Point"}
+  "geometry": {"coordinates":[36.50395,35.27181],"type":"Point"}
 }

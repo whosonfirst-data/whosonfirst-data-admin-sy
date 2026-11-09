@@ -62,7 +62,7 @@
         "wk:page":"Afs%2C_Idlib"
     },
     "wof:country":"SY",
-    "wof:geomhash":"5a98f2a1fb53465d3fb598f73fb9ca4d",
+    "wof:geomhash":"ca07ee3b77f7b07726dac244e78081e0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     36.80419000000001,
     35.9069
 ],
-  "geometry": {"coordinates":[36.80419000000001,35.9069],"type":"Point"}
+  "geometry": {"coordinates":[36.80419,35.9069],"type":"Point"}
 }

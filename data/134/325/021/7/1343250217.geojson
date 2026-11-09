@@ -63,7 +63,7 @@
         "wk:page":"Kafr_Ram"
     },
     "wof:country":"SY",
-    "wof:geomhash":"b77b5c1930eb23ccbe01c7ba9d776f35",
+    "wof:geomhash":"25b0708f6c552fa600ca296cd1aa5951",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     36.37548,
     34.86360999999999
 ],
-  "geometry": {"coordinates":[36.37548,34.86360999999999],"type":"Point"}
+  "geometry": {"coordinates":[36.37548,34.86361],"type":"Point"}
 }

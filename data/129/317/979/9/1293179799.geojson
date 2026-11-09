@@ -152,7 +152,7 @@
         "wk:page":"Arwad"
     },
     "wof:country":"SY",
-    "wof:geomhash":"89052817b3ed6dddb5f664680d02c5a1",
+    "wof:geomhash":"56267a75cbdacc9ade138c7780139c49",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -177,5 +177,5 @@
     35.85854000000001,
     34.85604
 ],
-  "geometry": {"coordinates":[35.85854000000001,34.85604],"type":"Point"}
+  "geometry": {"coordinates":[35.85854,34.85604],"type":"Point"}
 }

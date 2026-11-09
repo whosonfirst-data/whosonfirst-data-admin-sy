@@ -57,7 +57,7 @@
         "wk:page":"Isqat"
     },
     "wof:country":"SY",
-    "wof:geomhash":"a0f212eceec429d154078bc39dd21a8e",
+    "wof:geomhash":"8ddf0d9b4a099a3404bb027440f973c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     36.47369000000001,
     36.15153
 ],
-  "geometry": {"coordinates":[36.47369000000001,36.15153],"type":"Point"}
+  "geometry": {"coordinates":[36.47369,36.15153],"type":"Point"}
 }

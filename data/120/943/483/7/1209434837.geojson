@@ -65,7 +65,7 @@
         "wk:page":"Beit_Jinn"
     },
     "wof:country":"SY",
-    "wof:geomhash":"e3fe585a89de4bb48f9625744055aad5",
+    "wof:geomhash":"c79d46ddcad76af1d803035b00ac44d3",
     "wof:hierarchy":[
         {
             "country_id":85632413,
@@ -88,5 +88,5 @@
     35.87972,
     33.31375999999999
 ],
-  "geometry": {"coordinates":[35.87972,33.31375999999999],"type":"Point"}
+  "geometry": {"coordinates":[35.87972,33.31376],"type":"Point"}
 }

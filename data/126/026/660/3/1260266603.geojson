@@ -59,7 +59,7 @@
         "wk:page":"Qasr_Abu_Samrah"
     },
     "wof:country":"SY",
-    "wof:geomhash":"4007fa6b5c3a2c890f057e144341ef12",
+    "wof:geomhash":"a20140d931c41b2dd9abcce3a942cbf1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     36.97129,
     35.35362999999999
 ],
-  "geometry": {"coordinates":[36.97129,35.35362999999999],"type":"Point"}
+  "geometry": {"coordinates":[36.97129,35.35363],"type":"Point"}
 }

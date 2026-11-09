@@ -87,7 +87,7 @@
         "wk:page":"Al-Hajar_al-Aswad"
     },
     "wof:country":"SY",
-    "wof:geomhash":"c7a8d1db1771facdd802281925f51c23",
+    "wof:geomhash":"170ed0b06c7685ad6be022d6cfbf116a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,5 +113,5 @@
     36.30419000000001,
     33.45759
 ],
-  "geometry": {"coordinates":[36.30419000000001,33.45759],"type":"Point"}
+  "geometry": {"coordinates":[36.30419,33.45759],"type":"Point"}
 }

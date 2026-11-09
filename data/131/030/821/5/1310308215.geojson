@@ -113,7 +113,7 @@
         "wk:page":"Qardaha"
     },
     "wof:country":"SY",
-    "wof:geomhash":"07a97fa2cf49769a76de870c804369fa",
+    "wof:geomhash":"87cdf816e8ca8089345b6e0c34953f8b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -139,5 +139,5 @@
     36.05909000000001,
     35.45644
 ],
-  "geometry": {"coordinates":[36.05909000000001,35.45644],"type":"Point"}
+  "geometry": {"coordinates":[36.05909,35.45644],"type":"Point"}
 }

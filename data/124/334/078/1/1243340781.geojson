@@ -71,7 +71,7 @@
         "wk:page":"Taftanaz"
     },
     "wof:country":"SY",
-    "wof:geomhash":"960b18a80682e9e3e69efd51d10e143a",
+    "wof:geomhash":"5e7c68567ae5517098388b6b68d38b63",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,5 +97,5 @@
     36.78579000000001,
     35.99832
 ],
-  "geometry": {"coordinates":[36.78579000000001,35.99832],"type":"Point"}
+  "geometry": {"coordinates":[36.78579,35.99832],"type":"Point"}
 }

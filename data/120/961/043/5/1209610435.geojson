@@ -59,7 +59,7 @@
         "wk:page":"Arzah"
     },
     "wof:country":"SY",
-    "wof:geomhash":"7be302e9b599605abfac5108fd96a3e1",
+    "wof:geomhash":"51d44318009803916133f38b6c0b2a33",
     "wof:hierarchy":[
         {
             "country_id":85632413,
@@ -82,5 +82,5 @@
     36.69864000000001,
     35.17531
 ],
-  "geometry": {"coordinates":[36.69864000000001,35.17531],"type":"Point"}
+  "geometry": {"coordinates":[36.69864,35.17531],"type":"Point"}
 }

@@ -62,7 +62,7 @@
         "wk:page":"Killi"
     },
     "wof:country":"SY",
-    "wof:geomhash":"e89909b6a3801310f9c6c19ea80a82a8",
+    "wof:geomhash":"d03b6bcb3ce6a0e313915b5634870ed8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     36.69428,
     36.11089000000001
 ],
-  "geometry": {"coordinates":[36.69428,36.11089000000001],"type":"Point"}
+  "geometry": {"coordinates":[36.69428,36.11089],"type":"Point"}
 }

@@ -124,7 +124,7 @@
     "wof:concordances":{},
     "wof:country":"SY",
     "wof:created":1499130531,
-    "wof:geomhash":"b09452259321dad5de85b6e12e63e294",
+    "wof:geomhash":"1e37db28bdbf144cea31b6db14156c0f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -150,5 +150,5 @@
     36.10500350660266,
     32.62500013774076
 ],
-  "geometry": {"coordinates":[36.10500350660266,32.62500013774076],"type":"Point"}
+  "geometry": {"coordinates":[36.105004,32.625],"type":"Point"}
 }

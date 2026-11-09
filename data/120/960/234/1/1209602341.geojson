@@ -59,7 +59,7 @@
         "wk:page":"Sheikh_Barakeh"
     },
     "wof:country":"SY",
-    "wof:geomhash":"7485350fc881c259f466be0354b4c9c9",
+    "wof:geomhash":"c585a21f648dc145263e3ce21be1f4e8",
     "wof:hierarchy":[
         {
             "country_id":85632413,
@@ -82,5 +82,5 @@
     36.97974,
     35.55970999999999
 ],
-  "geometry": {"coordinates":[36.97974,35.55970999999999],"type":"Point"}
+  "geometry": {"coordinates":[36.97974,35.55971],"type":"Point"}
 }

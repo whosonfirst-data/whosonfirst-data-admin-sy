@@ -58,7 +58,7 @@
         "wk:page":"Shahranaz"
     },
     "wof:country":"SY",
-    "wof:geomhash":"9c98a98bc77f5f96d3f409d70f33bd0c",
+    "wof:geomhash":"489c8e403b754671df755970afb89520",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     36.40264000000001,
     35.51632
 ],
-  "geometry": {"coordinates":[36.40264000000001,35.51632],"type":"Point"}
+  "geometry": {"coordinates":[36.40264,35.51632],"type":"Point"}
 }

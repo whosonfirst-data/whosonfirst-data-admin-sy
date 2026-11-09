@@ -67,7 +67,7 @@
         "wk:page":"Abila_Lysaniou"
     },
     "wof:country":"SY",
-    "wof:geomhash":"4f07493272c7a8f4bb29a5c96447d651",
+    "wof:geomhash":"3ba97cc03adb00fdd4624206bebac96f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,5 +93,5 @@
     36.10816,
     33.62504000000001
 ],
-  "geometry": {"coordinates":[36.10816,33.62504000000001],"type":"Point"}
+  "geometry": {"coordinates":[36.10816,33.62504],"type":"Point"}
 }

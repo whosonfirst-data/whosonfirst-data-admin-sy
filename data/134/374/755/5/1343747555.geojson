@@ -74,7 +74,7 @@
         "wk:page":"Al-Nashabiyah"
     },
     "wof:country":"SY",
-    "wof:geomhash":"dcfa98455e4e6d09b722c0bcac7cb6c2",
+    "wof:geomhash":"2e9e721d62cffb510260fcea039f5633",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,5 +100,5 @@
     36.48569000000001,
     33.51051
 ],
-  "geometry": {"coordinates":[36.48569000000001,33.51051],"type":"Point"}
+  "geometry": {"coordinates":[36.48569,33.51051],"type":"Point"}
 }

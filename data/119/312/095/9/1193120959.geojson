@@ -59,7 +59,7 @@
         "wk:page":"Abu_Mansaf"
     },
     "wof:country":"SY",
-    "wof:geomhash":"1ca02fee6fd487299523bdabb950e0d3",
+    "wof:geomhash":"9c06120e7504d23243c2a35070be6f88",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     36.87212,
     35.26537000000001
 ],
-  "geometry": {"coordinates":[36.87212,35.26537000000001],"type":"Point"}
+  "geometry": {"coordinates":[36.87212,35.26537],"type":"Point"}
 }

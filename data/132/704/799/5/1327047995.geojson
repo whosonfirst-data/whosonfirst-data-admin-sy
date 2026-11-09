@@ -51,7 +51,7 @@
         "wk:page":"Aaloua"
     },
     "wof:country":"SY",
-    "wof:geomhash":"2f3ba96436024c5cc29f6919d3af7139",
+    "wof:geomhash":"97ebeee72b8408b42ad246477c3c46de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     40.88295,
     35.81334000000001
 ],
-  "geometry": {"coordinates":[40.88295,35.81334000000001],"type":"Point"}
+  "geometry": {"coordinates":[40.88295,35.81334],"type":"Point"}
 }

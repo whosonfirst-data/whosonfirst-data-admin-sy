@@ -61,7 +61,7 @@
         "wk:page":"Dadikh"
     },
     "wof:country":"SY",
-    "wof:geomhash":"c612e8e83ad2f6daed9d42416969bf17",
+    "wof:geomhash":"e6619a75146c0b246a0f407196c63c98",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     36.73266,
     35.80047000000001
 ],
-  "geometry": {"coordinates":[36.73266,35.80047000000001],"type":"Point"}
+  "geometry": {"coordinates":[36.73266,35.80047],"type":"Point"}
 }

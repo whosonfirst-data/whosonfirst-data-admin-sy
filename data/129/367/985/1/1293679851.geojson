@@ -62,7 +62,7 @@
         "wk:page":"Hinah"
     },
     "wof:country":"SY",
-    "wof:geomhash":"05ad9691a2981ef0586a8494ab40723b",
+    "wof:geomhash":"112a682dece963362fb3ac1cd000afab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     35.94195999999999,
     33.35187
 ],
-  "geometry": {"coordinates":[35.94195999999999,33.35187],"type":"Point"}
+  "geometry": {"coordinates":[35.94196,33.35187],"type":"Point"}
 }

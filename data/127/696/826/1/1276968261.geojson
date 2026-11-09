@@ -63,7 +63,7 @@
         "wk:page":"Qastun"
     },
     "wof:country":"SY",
-    "wof:geomhash":"eb809be4a5b8d97a5802a5322f55c79b",
+    "wof:geomhash":"a2f5347971cd3d819451b51b434ac53a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     36.38391,
     35.68425999999999
 ],
-  "geometry": {"coordinates":[36.38391,35.68425999999999],"type":"Point"}
+  "geometry": {"coordinates":[36.38391,35.68426],"type":"Point"}
 }

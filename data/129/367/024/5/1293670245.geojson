@@ -56,7 +56,7 @@
         "wk:page":"Tannunah"
     },
     "wof:country":"SY",
-    "wof:geomhash":"75321fcbd28f499126fffda6501cd205",
+    "wof:geomhash":"1985a83de99af1aba6ab22cd424318e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,5 +82,5 @@
     36.56854000000001,
     34.75375
 ],
-  "geometry": {"coordinates":[36.56854000000001,34.75375],"type":"Point"}
+  "geometry": {"coordinates":[36.56854,34.75375],"type":"Point"}
 }

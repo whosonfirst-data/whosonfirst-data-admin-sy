@@ -62,7 +62,7 @@
         "wk:page":"Maar_Shamshah"
     },
     "wof:country":"SY",
-    "wof:geomhash":"ac80b65948db9697d25550e0da2e448f",
+    "wof:geomhash":"51cf3ed80e2fbc88988ef28baef7a95a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     36.70923,
     35.63529000000001
 ],
-  "geometry": {"coordinates":[36.70923,35.63529000000001],"type":"Point"}
+  "geometry": {"coordinates":[36.70923,35.63529],"type":"Point"}
 }

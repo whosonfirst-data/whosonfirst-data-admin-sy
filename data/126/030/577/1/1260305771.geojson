@@ -99,7 +99,7 @@
         "wk:page":"Jaramana"
     },
     "wof:country":"SY",
-    "wof:geomhash":"70dcdf6fff155efa13e919974a6677b4",
+    "wof:geomhash":"452880bb25681bae6ec9931210318e66",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,5 +125,5 @@
     36.34614000000001,
     33.4862
 ],
-  "geometry": {"coordinates":[36.34614000000001,33.4862],"type":"Point"}
+  "geometry": {"coordinates":[36.34614,33.4862],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Dimu%2C_Syria"
     },
     "wof:country":"SY",
-    "wof:geomhash":"6ee3147f0f6a8be79887ed81b254f6e5",
+    "wof:geomhash":"af2431fa93f0e1ccc5fdbb4baa4ffc2e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     36.44739000000001,
     35.20302
 ],
-  "geometry": {"coordinates":[36.44739000000001,35.20302],"type":"Point"}
+  "geometry": {"coordinates":[36.44739,35.20302],"type":"Point"}
 }

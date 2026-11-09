@@ -65,7 +65,7 @@
         "wk:page":"Jurin"
     },
     "wof:country":"SY",
-    "wof:geomhash":"ce6d4f51768f50b34ec4fd86b96c9664",
+    "wof:geomhash":"47d8dad31ff3e0450ee2e8db931b36f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,5 +91,5 @@
     36.23974000000001,
     35.61982000000001
 ],
-  "geometry": {"coordinates":[36.23974000000001,35.61982000000001],"type":"Point"}
+  "geometry": {"coordinates":[36.23974,35.61982],"type":"Point"}
 }

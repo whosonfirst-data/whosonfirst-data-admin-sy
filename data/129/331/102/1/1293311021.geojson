@@ -61,7 +61,7 @@
         "wk:page":"Nimrod%2C_Golan_Heights"
     },
     "wof:country":"SY",
-    "wof:geomhash":"99a81382da0f8fa010b59cb43bd21edf",
+    "wof:geomhash":"5bfaa44901cbb51add793f6414ec8885",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,5 +126,5 @@
     35.75972,
     33.24639000000001
 ],
-  "geometry": {"coordinates":[35.75972,33.24639000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.75972,33.24639],"type":"Point"}
 }

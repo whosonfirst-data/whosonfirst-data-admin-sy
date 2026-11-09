@@ -60,7 +60,7 @@
         "wk:page":"Qarqur"
     },
     "wof:country":"SY",
-    "wof:geomhash":"a9b32f27b48edec0f197d555737d1173",
+    "wof:geomhash":"8640d893af6a0d9944044e4c7a2d2b85",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     36.32109000000001,
     35.74313
 ],
-  "geometry": {"coordinates":[36.32109000000001,35.74313],"type":"Point"}
+  "geometry": {"coordinates":[36.32109,35.74313],"type":"Point"}
 }
