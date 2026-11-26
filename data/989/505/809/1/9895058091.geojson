@@ -1,0 +1,74 @@
+{
+  "id": 9895058091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.75764,36.83734,40.75764,36.83734",
+    "geom:latitude":36.83734,
+    "geom:longitude":40.75764,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11806949: name \"Ray\u1e29\u0101n\u012byah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11806949"
+        },
+        {
+            "citation":"GeoNames populated place 11806949: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11806949"
+        },
+        {
+            "citation":"GeoNames populated place 11806949: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11806949"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779193 (Quamishli), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678377,
+        102191569,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11806949
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"bdf983d9c5acbee6ebcc411268177093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":9895058091,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":9895058091,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Ray\u1e29\u0101n\u012byah",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.75764,
+    36.83734,
+    40.75764,
+    36.83734
+],
+  "geometry": {"coordinates":[40.75764,36.83734],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895058237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31325,32.97712,36.31325,32.97712",
+    "geom:latitude":32.97712,
+    "geom:longitude":36.31325,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12211534: name \"Ar Ruways\u0101t\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12211534"
+        },
+        {
+            "citation":"GeoNames populated place 12211534: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12211534"
+        },
+        {
+            "citation":"GeoNames populated place 12211534: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12211534"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779177 (Izra'), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678399,
+        102191569,
+        1108779177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12211534
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e536411ef5800d0c17fbc1af2e4024de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779177,
+            "locality_id":9895058237,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":9895058237,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Ar Ruways\u0101t",
+    "wof:parent_id":1108779177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31325,
+    32.97712,
+    36.31325,
+    32.97712
+],
+  "geometry": {"coordinates":[36.31325,32.97712],"type":"Point"}
+}

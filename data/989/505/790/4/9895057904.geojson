@@ -1,0 +1,74 @@
+{
+  "id": 9895057904,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.41603,36.52196,38.41603,36.52196",
+    "geom:latitude":36.52196,
+    "geom:longitude":38.41603,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11805621: name \"Shak\u012bf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11805621"
+        },
+        {
+            "citation":"GeoNames populated place 11805621: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11805621"
+        },
+        {
+            "citation":"GeoNames populated place 11805621: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11805621"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779073 (Ain Al Arab), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678359,
+        102191569,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11805621
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d9ac37691940291d69198dc6a6df2034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":9895057904,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":9895057904,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Shak\u012bf",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.41603,
+    36.52196,
+    38.41603,
+    36.52196
+],
+  "geometry": {"coordinates":[38.41603,36.52196],"type":"Point"}
+}

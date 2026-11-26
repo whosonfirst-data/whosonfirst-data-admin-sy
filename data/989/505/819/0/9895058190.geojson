@@ -1,0 +1,74 @@
+{
+  "id": 9895058190,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03162,32.81273,36.03162,32.81273",
+    "geom:latitude":32.81273,
+    "geom:longitude":36.03162,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12210361: name \"Sih\u0101m Tall al Haw\u00e1\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12210361"
+        },
+        {
+            "citation":"GeoNames populated place 12210361: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12210361"
+        },
+        {
+            "citation":"GeoNames populated place 12210361: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12210361"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779177 (Izra'), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678399,
+        102191569,
+        1108779177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12210361
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9b6f84dc43e083614ac4ec1e717a91fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779177,
+            "locality_id":9895058190,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":9895058190,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Sih\u0101m Tall al Haw\u00e1",
+    "wof:parent_id":1108779177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03162,
+    32.81273,
+    36.03162,
+    32.81273
+],
+  "geometry": {"coordinates":[36.03162,32.81273],"type":"Point"}
+}

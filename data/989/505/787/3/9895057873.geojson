@@ -1,0 +1,74 @@
+{
+  "id": 9895057873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.69336,36.06835,38.69336,36.06835",
+    "geom:latitude":36.06835,
+    "geom:longitude":38.69336,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11805574: name \"Ab\u016b Kabrah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11805574"
+        },
+        {
+            "citation":"GeoNames populated place 11805574: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11805574"
+        },
+        {
+            "citation":"GeoNames populated place 11805574: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11805574"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779169 (Ar-Raqqa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678355,
+        102191569,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11805574
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1ccb72314eec4bbb6df2da3b78ecba76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":9895057873,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":9895057873,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Ab\u016b Kabrah",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.69336,
+    36.06835,
+    38.69336,
+    36.06835
+],
+  "geometry": {"coordinates":[38.69336,36.06835],"type":"Point"}
+}

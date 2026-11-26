@@ -1,0 +1,74 @@
+{
+  "id": 9895058269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03924,34.99352,36.03924,34.99352",
+    "geom:latitude":34.99352,
+    "geom:longitude":36.03924,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13435090: name \"Al Gharb\u012byah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13435090"
+        },
+        {
+            "citation":"GeoNames populated place 13435090: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13435090"
+        },
+        {
+            "citation":"GeoNames populated place 13435090: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13435090"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779149 (Sheikh Badr), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678349,
+        102191569,
+        1108779149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13435090
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"84ea28adfb4d794f63e8123578ae271a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779149,
+            "locality_id":9895058269,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":9895058269,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Al Gharb\u012byah",
+    "wof:parent_id":1108779149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03924,
+    34.99352,
+    36.03924,
+    34.99352
+],
+  "geometry": {"coordinates":[36.03924,34.99352],"type":"Point"}
+}

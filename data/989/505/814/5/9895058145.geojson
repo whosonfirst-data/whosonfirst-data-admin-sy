@@ -1,0 +1,74 @@
+{
+  "id": 9895058145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.92617,36.62292,36.92617,36.62292",
+    "geom:latitude":36.62292,
+    "geom:longitude":36.92617,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12094725: name \"Ar\u1e11 Shaqshaq\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12094725"
+        },
+        {
+            "citation":"GeoNames populated place 12094725: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12094725"
+        },
+        {
+            "citation":"GeoNames populated place 12094725: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12094725"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779089 (Afrin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678359,
+        102191569,
+        1108779089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12094725
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1ddbbb9e5f42eefcfd2c4400225fcc6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779089,
+            "locality_id":9895058145,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":9895058145,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Ar\u1e11 Shaqshaq",
+    "wof:parent_id":1108779089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.92617,
+    36.62292,
+    36.92617,
+    36.62292
+],
+  "geometry": {"coordinates":[36.92617,36.62292],"type":"Point"}
+}

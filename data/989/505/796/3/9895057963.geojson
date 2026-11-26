@@ -1,0 +1,74 @@
+{
+  "id": 9895057963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.98117,36.73389,39.98117,36.73389",
+    "geom:latitude":36.73389,
+    "geom:longitude":39.98117,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11805996: name \"Tham\u016bd\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11805996"
+        },
+        {
+            "citation":"GeoNames populated place 11805996: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11805996"
+        },
+        {
+            "citation":"GeoNames populated place 11805996: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11805996"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779083 (Ras Al Ain), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678377,
+        102191569,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11805996
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"4e0fd7679e2d64c3128db2f87f42eb8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":9895057963,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":9895057963,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Tham\u016bd",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.98117,
+    36.73389,
+    39.98117,
+    36.73389
+],
+  "geometry": {"coordinates":[39.98117,36.73389],"type":"Point"}
+}

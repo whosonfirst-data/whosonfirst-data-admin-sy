@@ -1,0 +1,74 @@
+{
+  "id": 9895057991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.29329,36.64035,40.29329,36.64035",
+    "geom:latitude":36.64035,
+    "geom:longitude":40.29329,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11806102: name \"As Salm\u0101sah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11806102"
+        },
+        {
+            "citation":"GeoNames populated place 11806102: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11806102"
+        },
+        {
+            "citation":"GeoNames populated place 11806102: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11806102"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779189 (Al-Hasakeh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678377,
+        102191569,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11806102
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"882e2850f8b5e9232bf43e99f013b245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":9895057991,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":9895057991,
+    "wof:lastmodified":1795735038,
+    "wof:name":"As Salm\u0101sah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.29329,
+    36.64035,
+    40.29329,
+    36.64035
+],
+  "geometry": {"coordinates":[40.29329,36.64035],"type":"Point"}
+}

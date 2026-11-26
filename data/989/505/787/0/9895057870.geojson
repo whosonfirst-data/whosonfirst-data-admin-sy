@@ -1,0 +1,74 @@
+{
+  "id": 9895057870,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.01827,36.00903,39.01827,36.00903",
+    "geom:latitude":36.00903,
+    "geom:longitude":39.01827,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11805565: name \"Al Asad\u012byah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11805565"
+        },
+        {
+            "citation":"GeoNames populated place 11805565: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11805565"
+        },
+        {
+            "citation":"GeoNames populated place 11805565: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11805565"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779169 (Ar-Raqqa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678355,
+        102191569,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11805565
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3c9a8768456177ae4fbac37faa6cef6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":9895057870,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":9895057870,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Al Asad\u012byah",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.01827,
+    36.00903,
+    39.01827,
+    36.00903
+],
+  "geometry": {"coordinates":[39.01827,36.00903],"type":"Point"}
+}

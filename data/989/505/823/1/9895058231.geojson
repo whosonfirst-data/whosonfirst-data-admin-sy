@@ -1,0 +1,74 @@
+{
+  "id": 9895058231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.23712,32.99677,36.23712,32.99677",
+    "geom:latitude":32.99677,
+    "geom:longitude":36.23712,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12210744: name \"A\u0163 \u0162a\u1e29\u012bn\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12210744"
+        },
+        {
+            "citation":"GeoNames populated place 12210744: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12210744"
+        },
+        {
+            "citation":"GeoNames populated place 12210744: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12210744"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779137 (As-Sanamayn), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678399,
+        102191569,
+        1108779137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12210744
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8da66d8cd7842d6d1477b038053f358f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779137,
+            "locality_id":9895058231,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":9895058231,
+    "wof:lastmodified":1795735038,
+    "wof:name":"A\u0163 \u0162a\u1e29\u012bn",
+    "wof:parent_id":1108779137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.23712,
+    32.99677,
+    36.23712,
+    32.99677
+],
+  "geometry": {"coordinates":[36.23712,32.99677],"type":"Point"}
+}

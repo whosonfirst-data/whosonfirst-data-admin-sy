@@ -1,0 +1,74 @@
+{
+  "id": 9895057899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.92953,36.31043,38.92953,36.31043",
+    "geom:latitude":36.31043,
+    "geom:longitude":38.92953,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11805613: name \"Kard\u016bs\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11805613"
+        },
+        {
+            "citation":"GeoNames populated place 11805613: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11805613"
+        },
+        {
+            "citation":"GeoNames populated place 11805613: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11805613"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779169 (Ar-Raqqa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678355,
+        102191569,
+        1108779169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11805613
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"95a3e48409fee0eb062a9f1c35ce3c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779169,
+            "locality_id":9895057899,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":9895057899,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Kard\u016bs",
+    "wof:parent_id":1108779169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.92953,
+    36.31043,
+    38.92953,
+    36.31043
+],
+  "geometry": {"coordinates":[38.92953,36.31043],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895058257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.31667,34.72057,37.31667,34.72057",
+    "geom:latitude":34.72057,
+    "geom:longitude":37.31667,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13413878: name \"Rasm a\u0163 \u0162aw\u012bl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13413878"
+        },
+        {
+            "citation":"GeoNames populated place 13413878: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13413878"
+        },
+        {
+            "citation":"GeoNames populated place 13413878: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13413878"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779203 (Al Makhrim), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678367,
+        102191569,
+        1108779203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13413878
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"32bc68e344960cd53aa09efd384ca219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779203,
+            "locality_id":9895058257,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":9895058257,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Rasm a\u0163 \u0162aw\u012bl",
+    "wof:parent_id":1108779203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.31667,
+    34.72057,
+    37.31667,
+    34.72057
+],
+  "geometry": {"coordinates":[37.31667,34.72057],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895058200,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04807,32.82739,36.04807,32.82739",
+    "geom:latitude":32.82739,
+    "geom:longitude":36.04807,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12210392: name \"Sih\u0101m Z\u0327ahr al \u1e28im\u0101r\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12210392"
+        },
+        {
+            "citation":"GeoNames populated place 12210392: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12210392"
+        },
+        {
+            "citation":"GeoNames populated place 12210392: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12210392"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779177 (Izra'), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678399,
+        102191569,
+        1108779177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12210392
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5113ba8c905718c4013727f58b3091b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779177,
+            "locality_id":9895058200,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":9895058200,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Sih\u0101m Z\u0327ahr al \u1e28im\u0101r",
+    "wof:parent_id":1108779177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04807,
+    32.82739,
+    36.04807,
+    32.82739
+],
+  "geometry": {"coordinates":[36.04807,32.82739],"type":"Point"}
+}

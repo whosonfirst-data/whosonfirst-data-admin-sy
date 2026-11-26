@@ -1,0 +1,74 @@
+{
+  "id": 9895058262,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.90356,35.63588,35.90356,35.63588",
+    "geom:latitude":35.63588,
+    "geom:longitude":35.90356,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13416996: name \"Al \u1e28\u0101rah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13416996"
+        },
+        {
+            "citation":"GeoNames populated place 13416996: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13416996"
+        },
+        {
+            "citation":"GeoNames populated place 13416996: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13416996"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779125 (Lattakia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678345,
+        102191569,
+        1108779125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13416996
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"deb89c9937ef309f1f4f83efe7cfc559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779125,
+            "locality_id":9895058262,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":9895058262,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Al \u1e28\u0101rah",
+    "wof:parent_id":1108779125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.90356,
+    35.63588,
+    35.90356,
+    35.63588
+],
+  "geometry": {"coordinates":[35.90356,35.63588],"type":"Point"}
+}
