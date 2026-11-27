@@ -1,0 +1,74 @@
+{
+  "id": 9895057905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.397,36.417,38.397,36.417",
+    "geom:latitude":36.417,
+    "geom:longitude":38.397,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11805622: name \"Kurayd\u0101n\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11805622"
+        },
+        {
+            "citation":"GeoNames populated place 11805622: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11805622"
+        },
+        {
+            "citation":"GeoNames populated place 11805622: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11805622"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779073 (Ain Al Arab), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678359,
+        102191569,
+        1108779073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11805622
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"c6d79086a06159636627a07427e1dd12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779073,
+            "locality_id":9895057905,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":9895057905,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Kurayd\u0101n",
+    "wof:parent_id":1108779073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.397,
+    36.417,
+    38.397,
+    36.417
+],
+  "geometry": {"coordinates":[38.397,36.417],"type":"Point"}
+}

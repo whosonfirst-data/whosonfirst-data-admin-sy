@@ -1,0 +1,74 @@
+{
+  "id": 9895058251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.70325,32.8965,36.70325,32.8965",
+    "geom:latitude":32.8965,
+    "geom:longitude":36.70325,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12215036: name \"Ma\u0163akhkh al Mufatta\u1e29\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12215036"
+        },
+        {
+            "citation":"GeoNames populated place 12215036: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12215036"
+        },
+        {
+            "citation":"GeoNames populated place 12215036: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12215036"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779179 (Shahba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678385,
+        102191569,
+        1108779179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12215036
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"155edc009005d339b63945cb7b90f663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779179,
+            "locality_id":9895058251,
+            "region_id":85678385
+        }
+    ],
+    "wof:id":9895058251,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Ma\u0163akhkh al Mufatta\u1e29",
+    "wof:parent_id":1108779179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.70325,
+    32.8965,
+    36.70325,
+    32.8965
+],
+  "geometry": {"coordinates":[36.70325,32.8965],"type":"Point"}
+}

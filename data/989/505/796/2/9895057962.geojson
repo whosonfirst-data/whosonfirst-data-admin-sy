@@ -1,0 +1,74 @@
+{
+  "id": 9895057962,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.00111,35.50205,39.00111,35.50205",
+    "geom:latitude":35.50205,
+    "geom:longitude":39.00111,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11805985: name \"Az Zamlah ash Sharq\u012byah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11805985"
+        },
+        {
+            "citation":"GeoNames populated place 11805985: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11805985"
+        },
+        {
+            "citation":"GeoNames populated place 11805985: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11805985"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779103 (Ath-Thawrah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678355,
+        102191569,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11805985
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"060f6e82b70aa35ab553f8fdf8ea42c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":9895057962,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":9895057962,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Az Zamlah ash Sharq\u012byah",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.00111,
+    35.50205,
+    39.00111,
+    35.50205
+],
+  "geometry": {"coordinates":[39.00111,35.50205],"type":"Point"}
+}

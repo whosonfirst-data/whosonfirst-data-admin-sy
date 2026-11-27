@@ -1,0 +1,74 @@
+{
+  "id": 9895057937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.35059,36.49604,39.35059,36.49604",
+    "geom:latitude":36.49604,
+    "geom:longitude":39.35059,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11805944: name \"Al M\u0101lik\u012byah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11805944"
+        },
+        {
+            "citation":"GeoNames populated place 11805944: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11805944"
+        },
+        {
+            "citation":"GeoNames populated place 11805944: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11805944"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779197 (Tell Abiad), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678355,
+        102191569,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11805944
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"27835812e7c66317fdbb74b3e307daaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":9895057937,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":9895057937,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Al M\u0101lik\u012byah",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.35059,
+    36.49604,
+    39.35059,
+    36.49604
+],
+  "geometry": {"coordinates":[39.35059,36.49604],"type":"Point"}
+}

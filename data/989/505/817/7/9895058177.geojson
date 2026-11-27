@@ -1,0 +1,74 @@
+{
+  "id": 9895058177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0114,32.9851,36.0114,32.9851",
+    "geom:latitude":32.9851,
+    "geom:longitude":36.0114,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12210296: name \"Rasm al Wah\u012bb\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12210296"
+        },
+        {
+            "citation":"GeoNames populated place 12210296: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12210296"
+        },
+        {
+            "citation":"GeoNames populated place 12210296: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12210296"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779177 (Izra'), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678399,
+        102191569,
+        1108779177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12210296
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"8956094c46883027fa2884a776a209e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779177,
+            "locality_id":9895058177,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":9895058177,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Rasm al Wah\u012bb\u012b",
+    "wof:parent_id":1108779177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0114,
+    32.9851,
+    36.0114,
+    32.9851
+],
+  "geometry": {"coordinates":[36.0114,32.9851],"type":"Point"}
+}

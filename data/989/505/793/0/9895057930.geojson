@@ -1,0 +1,74 @@
+{
+  "id": 9895057930,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.88695,36.7344,39.88695,36.7344",
+    "geom:latitude":36.7344,
+    "geom:longitude":39.88695,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11805933: name \"\u015e\u0101li\u1e29\u012byat Mull\u0101 Khi\u1e11r\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11805933"
+        },
+        {
+            "citation":"GeoNames populated place 11805933: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11805933"
+        },
+        {
+            "citation":"GeoNames populated place 11805933: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11805933"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779083 (Ras Al Ain), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678377,
+        102191569,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11805933
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"5c49880aa086bafb112f70dde49a64da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":9895057930,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":9895057930,
+    "wof:lastmodified":1795735038,
+    "wof:name":"\u015e\u0101li\u1e29\u012byat Mull\u0101 Khi\u1e11r",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.88695,
+    36.7344,
+    39.88695,
+    36.7344
+],
+  "geometry": {"coordinates":[39.88695,36.7344],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895057848,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.38151,35.93901,38.38151,35.93901",
+    "geom:latitude":35.93901,
+    "geom:longitude":38.38151,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11785736: name \"Es Safra\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11785736"
+        },
+        {
+            "citation":"GeoNames populated place 11785736: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11785736"
+        },
+        {
+            "citation":"GeoNames populated place 11785736: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11785736"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779103 (Ath-Thawrah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678355,
+        102191569,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11785736
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"472ed680aaf8d0cc8e1fd54ff165e528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":9895057848,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":9895057848,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Es Safra",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.38151,
+    35.93901,
+    38.38151,
+    35.93901
+],
+  "geometry": {"coordinates":[38.38151,35.93901],"type":"Point"}
+}

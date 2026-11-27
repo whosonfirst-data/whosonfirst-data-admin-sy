@@ -1,0 +1,74 @@
+{
+  "id": 9895058010,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.90847,36.58609,40.90847,36.58609",
+    "geom:latitude":36.58609,
+    "geom:longitude":40.90847,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11806768: name \"Judaydah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11806768"
+        },
+        {
+            "citation":"GeoNames populated place 11806768: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11806768"
+        },
+        {
+            "citation":"GeoNames populated place 11806768: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11806768"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779189 (Al-Hasakeh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678377,
+        102191569,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11806768
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"2c38d7241fba7678983c1e738d321044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":9895058010,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":9895058010,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Judaydah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.90847,
+    36.58609,
+    40.90847,
+    36.58609
+],
+  "geometry": {"coordinates":[40.90847,36.58609],"type":"Point"}
+}

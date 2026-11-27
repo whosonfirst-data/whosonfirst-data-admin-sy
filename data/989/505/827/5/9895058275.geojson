@@ -1,0 +1,74 @@
+{
+  "id": 9895058275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.47265,35.59814,40.47265,35.59814",
+    "geom:latitude":35.59814,
+    "geom:longitude":40.47265,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13440468: name \"Ruwayshid\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13440468"
+        },
+        {
+            "citation":"GeoNames populated place 13440468: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13440468"
+        },
+        {
+            "citation":"GeoNames populated place 13440468: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13440468"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779157 (Deir-ez-Zor), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678381,
+        102191569,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13440468
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a5c1e4b9709bf3dd77e71d86194ba6b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":9895058275,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":9895058275,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Ruwayshid",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.47265,
+    35.59814,
+    40.47265,
+    35.59814
+],
+  "geometry": {"coordinates":[40.47265,35.59814],"type":"Point"}
+}

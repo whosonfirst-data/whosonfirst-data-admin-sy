@@ -1,0 +1,74 @@
+{
+  "id": 9895058260,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.01258,36.00413,41.01258,36.00413",
+    "geom:latitude":36.00413,
+    "geom:longitude":41.01258,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13415187: name \"Mast\u016br\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13415187"
+        },
+        {
+            "citation":"GeoNames populated place 13415187: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13415187"
+        },
+        {
+            "citation":"GeoNames populated place 13415187: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13415187"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779189 (Al-Hasakeh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678377,
+        102191569,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13415187
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"3bb07e1a8aa77856eabe49341d56f867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":9895058260,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":9895058260,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Mast\u016br",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.01258,
+    36.00413,
+    41.01258,
+    36.00413
+],
+  "geometry": {"coordinates":[41.01258,36.00413],"type":"Point"}
+}

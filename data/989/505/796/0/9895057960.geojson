@@ -1,0 +1,74 @@
+{
+  "id": 9895057960,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.61963,35.27047,38.61963,35.27047",
+    "geom:latitude":35.27047,
+    "geom:longitude":38.61963,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11805981: name \"Kar\u012bm\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11805981"
+        },
+        {
+            "citation":"GeoNames populated place 11805981: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11805981"
+        },
+        {
+            "citation":"GeoNames populated place 11805981: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11805981"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779085 (Tadmor), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678367,
+        102191569,
+        1108779085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11805981
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"1f809c7fd634b2278419c40500bcd1bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779085,
+            "locality_id":9895057960,
+            "region_id":85678367
+        }
+    ],
+    "wof:id":9895057960,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Kar\u012bm",
+    "wof:parent_id":1108779085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.61963,
+    35.27047,
+    38.61963,
+    35.27047
+],
+  "geometry": {"coordinates":[38.61963,35.27047],"type":"Point"}
+}

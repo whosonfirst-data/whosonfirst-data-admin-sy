@@ -1,0 +1,74 @@
+{
+  "id": 9895057953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.51797,36.64758,39.51797,36.64758",
+    "geom:latitude":36.64758,
+    "geom:longitude":39.51797,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11805963: name \"Al Buwaydir\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11805963"
+        },
+        {
+            "citation":"GeoNames populated place 11805963: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11805963"
+        },
+        {
+            "citation":"GeoNames populated place 11805963: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11805963"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779197 (Tell Abiad), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678355,
+        102191569,
+        1108779197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11805963
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"28315096af3f88aa0ad31fac6db8d0a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779197,
+            "locality_id":9895057953,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":9895057953,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Al Buwaydir",
+    "wof:parent_id":1108779197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.51797,
+    36.64758,
+    39.51797,
+    36.64758
+],
+  "geometry": {"coordinates":[39.51797,36.64758],"type":"Point"}
+}

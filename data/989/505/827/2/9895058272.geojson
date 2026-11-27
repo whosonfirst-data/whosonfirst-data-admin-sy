@@ -1,0 +1,74 @@
+{
+  "id": 9895058272,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.24177,34.85765,36.24177,34.85765",
+    "geom:latitude":34.85765,
+    "geom:longitude":36.24177,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13436488: name \"Al Kafr\u016bn\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13436488"
+        },
+        {
+            "citation":"GeoNames populated place 13436488: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13436488"
+        },
+        {
+            "citation":"GeoNames populated place 13436488: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13436488"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779209 (Safita), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678349,
+        102191569,
+        1108779209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13436488
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"d633cce6c8291a2bac16cb39de3faf45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779209,
+            "locality_id":9895058272,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":9895058272,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Al Kafr\u016bn",
+    "wof:parent_id":1108779209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.24177,
+    34.85765,
+    36.24177,
+    34.85765
+],
+  "geometry": {"coordinates":[36.24177,34.85765],"type":"Point"}
+}

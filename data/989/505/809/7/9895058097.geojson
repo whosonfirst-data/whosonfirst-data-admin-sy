@@ -1,0 +1,74 @@
+{
+  "id": 9895058097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.52452,36.56344,41.52452,36.56344",
+    "geom:latitude":36.56344,
+    "geom:longitude":41.52452,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11807027: name \"Taghlab\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11807027"
+        },
+        {
+            "citation":"GeoNames populated place 11807027: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11807027"
+        },
+        {
+            "citation":"GeoNames populated place 11807027: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11807027"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779193 (Quamishli), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678377,
+        102191569,
+        1108779193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11807027
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"27dc7eb83c49f6bdd63684ea693a82a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779193,
+            "locality_id":9895058097,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":9895058097,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Taghlab",
+    "wof:parent_id":1108779193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.52452,
+    36.56344,
+    41.52452,
+    36.56344
+],
+  "geometry": {"coordinates":[41.52452,36.56344],"type":"Point"}
+}

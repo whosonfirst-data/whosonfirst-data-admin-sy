@@ -1,0 +1,74 @@
+{
+  "id": 9895058110,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.83733,36.73367,41.83733,36.73367",
+    "geom:latitude":36.73367,
+    "geom:longitude":41.83733,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11807042: name \"Al Fadgham\u012byah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11807042"
+        },
+        {
+            "citation":"GeoNames populated place 11807042: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11807042"
+        },
+        {
+            "citation":"GeoNames populated place 11807042: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11807042"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779191 (Al-Malikeyyeh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678377,
+        102191569,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11807042
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"53ef8bfb0e7c9b83d74f8aa24e3a62c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":9895058110,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":9895058110,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Al Fadgham\u012byah",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.83733,
+    36.73367,
+    41.83733,
+    36.73367
+],
+  "geometry": {"coordinates":[41.83733,36.73367],"type":"Point"}
+}

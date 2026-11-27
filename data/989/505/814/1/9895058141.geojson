@@ -1,0 +1,74 @@
+{
+  "id": 9895058141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.78644,36.99531,41.78644,36.99531",
+    "geom:latitude":36.99531,
+    "geom:longitude":41.78644,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12055949: name \"Shabak\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12055949"
+        },
+        {
+            "citation":"GeoNames populated place 12055949: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12055949"
+        },
+        {
+            "citation":"GeoNames populated place 12055949: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12055949"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779191 (Al-Malikeyyeh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678377,
+        102191569,
+        1108779191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12055949
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e966291e28fa5381e6c29540e8e12616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779191,
+            "locality_id":9895058141,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":9895058141,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Shabak",
+    "wof:parent_id":1108779191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.78644,
+    36.99531,
+    41.78644,
+    36.99531
+],
+  "geometry": {"coordinates":[41.78644,36.99531],"type":"Point"}
+}

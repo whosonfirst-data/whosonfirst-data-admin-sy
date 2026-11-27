@@ -1,0 +1,74 @@
+{
+  "id": 9895058266,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.89933,35.02016,35.89933,35.02016",
+    "geom:latitude":35.02016,
+    "geom:longitude":35.89933,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13432689: name \"Marq\u012byah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13432689"
+        },
+        {
+            "citation":"GeoNames populated place 13432689: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13432689"
+        },
+        {
+            "citation":"GeoNames populated place 13432689: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13432689"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779153 (Tartous), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678349,
+        102191569,
+        1108779153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13432689
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"b44ecd2c563277997316d460980f48bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779153,
+            "locality_id":9895058266,
+            "region_id":85678349
+        }
+    ],
+    "wof:id":9895058266,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Marq\u012byah",
+    "wof:parent_id":1108779153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.89933,
+    35.02016,
+    35.89933,
+    35.02016
+],
+  "geometry": {"coordinates":[35.89933,35.02016],"type":"Point"}
+}

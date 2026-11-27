@@ -1,0 +1,74 @@
+{
+  "id": 9895057933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.7386,36.64865,39.7386,36.64865",
+    "geom:latitude":36.64865,
+    "geom:longitude":39.7386,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11805937: name \"Ab\u016b Sh\u0101kh\u0101t\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11805937"
+        },
+        {
+            "citation":"GeoNames populated place 11805937: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11805937"
+        },
+        {
+            "citation":"GeoNames populated place 11805937: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11805937"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779083 (Ras Al Ain), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678377,
+        102191569,
+        1108779083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11805937
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"61e3c6ae5eec698010a62cb9c277a559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779083,
+            "locality_id":9895057933,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":9895057933,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Ab\u016b Sh\u0101kh\u0101t",
+    "wof:parent_id":1108779083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.7386,
+    36.64865,
+    39.7386,
+    36.64865
+],
+  "geometry": {"coordinates":[39.7386,36.64865],"type":"Point"}
+}

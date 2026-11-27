@@ -1,0 +1,74 @@
+{
+  "id": 9895057885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.23637,36.18911,38.23637,36.18911",
+    "geom:latitude":36.18911,
+    "geom:longitude":38.23637,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11805595: name \"Al Muwayli\u1e29\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11805595"
+        },
+        {
+            "citation":"GeoNames populated place 11805595: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11805595"
+        },
+        {
+            "citation":"GeoNames populated place 11805595: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11805595"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779103 (Ath-Thawrah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678355,
+        102191569,
+        1108779103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11805595
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"f2c1181ed83cb810ee4b8e347e05bf31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779103,
+            "locality_id":9895057885,
+            "region_id":85678355
+        }
+    ],
+    "wof:id":9895057885,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Al Muwayli\u1e29",
+    "wof:parent_id":1108779103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.23637,
+    36.18911,
+    38.23637,
+    36.18911
+],
+  "geometry": {"coordinates":[38.23637,36.18911],"type":"Point"}
+}

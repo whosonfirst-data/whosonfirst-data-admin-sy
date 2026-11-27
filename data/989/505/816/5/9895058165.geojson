@@ -1,0 +1,74 @@
+{
+  "id": 9895058165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.29179,36.37218,37.29179,36.37218",
+    "geom:latitude":36.37218,
+    "geom:longitude":37.29179,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12125139: name \"Khirbat Bulaybil\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12125139"
+        },
+        {
+            "citation":"GeoNames populated place 12125139: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12125139"
+        },
+        {
+            "citation":"GeoNames populated place 12125139: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12125139"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779117 (A'zaz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678359,
+        102191569,
+        1108779117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12125139
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"0840b36b46581064d152edc0424340e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779117,
+            "locality_id":9895058165,
+            "region_id":85678359
+        }
+    ],
+    "wof:id":9895058165,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Khirbat Bulaybil",
+    "wof:parent_id":1108779117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.29179,
+    36.37218,
+    37.29179,
+    36.37218
+],
+  "geometry": {"coordinates":[37.29179,36.37218],"type":"Point"}
+}

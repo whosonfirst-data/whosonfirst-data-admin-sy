@@ -1,0 +1,74 @@
+{
+  "id": 9895058093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.17207,36.28213,41.17207,36.28213",
+    "geom:latitude":36.28213,
+    "geom:longitude":41.17207,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11807022: name \"Janbah Sharq\u012byah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11807022"
+        },
+        {
+            "citation":"GeoNames populated place 11807022: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11807022"
+        },
+        {
+            "citation":"GeoNames populated place 11807022: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11807022"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779189 (Al-Hasakeh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678377,
+        102191569,
+        1108779189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11807022
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"a587dccd90f74ce6d9ddf7a9259891f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779189,
+            "locality_id":9895058093,
+            "region_id":85678377
+        }
+    ],
+    "wof:id":9895058093,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Janbah Sharq\u012byah",
+    "wof:parent_id":1108779189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.17207,
+    36.28213,
+    41.17207,
+    36.28213
+],
+  "geometry": {"coordinates":[41.17207,36.28213],"type":"Point"}
+}

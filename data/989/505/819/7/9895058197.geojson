@@ -1,0 +1,74 @@
+{
+  "id": 9895058197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.05305,32.75954,36.05305,32.75954",
+    "geom:latitude":32.75954,
+    "geom:longitude":36.05305,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12210379: name \"Sih\u0101m Tall as Samn al Gharb\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12210379"
+        },
+        {
+            "citation":"GeoNames populated place 12210379: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12210379"
+        },
+        {
+            "citation":"GeoNames populated place 12210379: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12210379"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779077 (Dar'a), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678399,
+        102191569,
+        1108779077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12210379
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"033e64828aea6b54f88a4747854db906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779077,
+            "locality_id":9895058197,
+            "region_id":85678399
+        }
+    ],
+    "wof:id":9895058197,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Sih\u0101m Tall as Samn al Gharb\u012b",
+    "wof:parent_id":1108779077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.05305,
+    32.75954,
+    36.05305,
+    32.75954
+],
+  "geometry": {"coordinates":[36.05305,32.75954],"type":"Point"}
+}

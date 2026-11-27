@@ -1,0 +1,74 @@
+{
+  "id": 9895058261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95119,35.41948,35.95119,35.41948",
+    "geom:latitude":35.41948,
+    "geom:longitude":35.95119,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13416392: name \"Qur\u016b\u015f\u016b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13416392"
+        },
+        {
+            "citation":"GeoNames populated place 13416392: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13416392"
+        },
+        {
+            "citation":"GeoNames populated place 13416392: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13416392"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779131 (Jablah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678345,
+        102191569,
+        1108779131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13416392
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"e8cc8e19bc3a09bbe33cfe8814c52a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779131,
+            "locality_id":9895058261,
+            "region_id":85678345
+        }
+    ],
+    "wof:id":9895058261,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Qur\u016b\u015f\u016b",
+    "wof:parent_id":1108779131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95119,
+    35.41948,
+    35.95119,
+    35.41948
+],
+  "geometry": {"coordinates":[35.95119,35.41948],"type":"Point"}
+}

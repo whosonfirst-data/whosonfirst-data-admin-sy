@@ -1,0 +1,74 @@
+{
+  "id": 9895057961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.68283,35.07901,39.68283,35.07901",
+    "geom:latitude":35.07901,
+    "geom:longitude":39.68283,
+    "iso:country":"SY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11805982: name \"Qab\u0101jib\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11805982"
+        },
+        {
+            "citation":"GeoNames populated place 11805982: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11805982"
+        },
+        {
+            "citation":"GeoNames populated place 11805982: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11805982"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108779157 (Deir-ez-Zor), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632413,
+        85678381,
+        102191569,
+        1108779157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11805982
+    },
+    "wof:country":"SY",
+    "wof:geomhash":"9732e1d12e88cd29843569c252a3568a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632413,
+            "county_id":1108779157,
+            "locality_id":9895057961,
+            "region_id":85678381
+        }
+    ],
+    "wof:id":9895057961,
+    "wof:lastmodified":1795735038,
+    "wof:name":"Qab\u0101jib",
+    "wof:parent_id":1108779157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.68283,
+    35.07901,
+    39.68283,
+    35.07901
+],
+  "geometry": {"coordinates":[39.68283,35.07901],"type":"Point"}
+}
